@@ -1,0 +1,9 @@
+D:\דיזיין\מטלה 3\הגשה סופית\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\FacebookLogic\bin\Debug\FacebookLogic.dll.config
+D:\דיזיין\מטלה 3\הגשה סופית\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\FacebookLogic\bin\Debug\FacebookLogic.dll
+D:\דיזיין\מטלה 3\הגשה סופית\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\FacebookLogic\bin\Debug\FacebookLogic.pdb
+D:\דיזיין\מטלה 3\הגשה סופית\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\FacebookLogic\bin\Debug\Facebook.dll
+D:\דיזיין\מטלה 3\הגשה סופית\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\FacebookLogic\bin\Debug\FbGraphApiWrapper.dll
+D:\דיזיין\מטלה 3\הגשה סופית\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\FacebookLogic\obj\Debug\FacebookLogic.csproj.CoreCompileInputs.cache
+D:\דיזיין\מטלה 3\הגשה סופית\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\FacebookLogic\obj\Debug\FacebookLogic.csproj.CopyComplete
+D:\דיזיין\מטלה 3\הגשה סופית\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\FacebookLogic\obj\Debug\FacebookLogic.dll
+D:\דיזיין\מטלה 3\הגשה סופית\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\B21 Ex03 OrenJacob 315942763 BarakSegal 316383611\FacebookLogic\obj\Debug\FacebookLogic.pdb
